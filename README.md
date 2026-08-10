@@ -1,4 +1,4 @@
-# 🍽️ Projeto Integrador II - Grupo 05
+#  Projeto Integrador II - Grupo 05
 
 ## 📖 Sobre o Projeto
 
