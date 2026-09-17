@@ -25,7 +25,7 @@ Desenvolver um site dinâmico que atenda às necessidades da empresa **Delícias
 - Isabela Schreiner
 - João Pedro Batista
 - Mateus Martins
-
+- Henrique Reolon
 ---
 
 ## 🚀 Tecnologias
